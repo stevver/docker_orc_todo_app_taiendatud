@@ -43,4 +43,4 @@ curl http://localhost/api/todos   # 2. kord -> HIT
 1) API logid: **Cache MISS** ja **Cache HIT**
 2) `docker compose ps` – kõik **healthy**
 3) Brauseris UI + terminalis kaks `curl` (HIT kiirem)
-Pildid on eraldi kaustas nimega "Screenshots"
+4) Pildid on eraldi kaustas nimega "Screenshots"
